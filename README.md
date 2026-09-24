@@ -8,6 +8,7 @@ The dashboard was developed in Power BI with a focus on presenting COVID-19 tren
 
 ## Objective
 
+
 The main objectives of this project are:
 
 * Analyze COVID-19 case and death trends over time
