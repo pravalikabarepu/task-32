@@ -7,7 +7,6 @@ This project analyzes publicly available COVID-19 data to understand how cases, 
 The dashboard was developed in Power BI with a focus on presenting COVID-19 trends in a simple and interactive way for non-technical users.
 
 ## Objective
-"C:\Users\Pravalika.b\Downloads\compact.csv"
 
 The main objectives of this project are:
 
