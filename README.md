@@ -32,9 +32,6 @@ The dataset contains country-level and date-level information about:
 * Deaths per million
 * Vaccination coverage
 
- # Dataset Link
- https://catalog.ourworldindata.org/garden/covid/latest/compact/compact.csv?utm_source=chatgpt.com
-
 ## Tools Used
 
 * Power BI
